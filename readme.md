@@ -2,6 +2,8 @@
 
 ```
 # hostpc
+git clone https://github.com/coddserv/vagrant-php56
+cd vagrant-php56
 vagrant up
 vagrant ssh
 ```
